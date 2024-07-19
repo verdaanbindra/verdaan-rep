@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Verdaan</h1>
-<h3 align="center">Seasoned professional @ 10 years of blended exposure with a strong background in business operations analysis, product & project management, stakeholder & client relationship management, and strategy & consulting in varied industries (Fortune-500 League) Banking, Large Corporations, Captive-ITEs/GCCs. Being a resilient visionary, reborn through reflection, embraces tomorrow's challenges with invigorated spirit, all geared-up to make a robust comeback.</h3>
+<h3 align="center">Seasoned professional @ 10 years of blended exposure with a strong background in business operations analysis, product & project management, stakeholder & client relationship management, and strategy & consulting in varied industries (Fortune-500 League) Banking, Large Corporations, Captive-ITEs/GSCs. Being a resilient visionary, reborn through reflection, embraces tomorrow's challenges with invigorated spirit, all geared-up to make a robust comeback.</h3>
 
 - 🔭 I’m currently looking to kick-start again **through getting into a job to make it up to the AI/ML-led modern day challenges.**
 
