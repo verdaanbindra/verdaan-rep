@@ -9,7 +9,7 @@
 
 - 🤝 I can be that supporting arm to the organization, who can effectively set the right notion for department/function level balance-sheet **to keep the profit-centre afloat positively**
 
-- 📝 I'm keeping my pace at understanding AI [and learning the dynamics of 'prompt engineering'.](and learning the dynamics of 'prompt engineering'.)
+- 📝 I'm keeping my pace at understanding AI **and learning the dynamics of 'prompt engineering'**
 
 - 📫 How to reach me **verdaan.bindra@outlook.com or +91-99717-56750**
 
