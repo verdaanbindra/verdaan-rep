@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently exploring about AI's potential across various tools & platforms to revolutionize business outcomes and enhance client experiences, **while seeking to apply this cutting-edge knowledge professionally**
 
-- 👯 I’m looking to collaborate in bring versatile expertise in business operations, account management, and get the revenue-centre moving **through adept at multitasking, following data-driven approach with further blend of remarkable communication skills to make it up the client-focussed deliverables.**
+- 👯 I’m looking to collaborate in bringing versatile expertise in business operations, account management, and get the revenue-centre moving **through adept at multitasking, following data-driven approach with further blend of remarkable communication skills to make it up the client-focussed deliverables.**
 
 - 🤝 I can be that supporting arm to the organization, who can effectively set the right notion for department/function level balance-sheet **to keep the profit-centre afloat positively**
 
